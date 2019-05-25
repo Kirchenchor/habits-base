@@ -1,0 +1,28 @@
+{
+    "created_time": "2019-05-25T21:55:23Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-05-25T21:55:39Z",
+            "modified_time": "2019-05-25T21:56:13Z",
+            "name": "disziplin.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-05-25T21:55:59Z",
+            "modified_time": "2019-05-25T21:56:07Z",
+            "name": "puenktlichkeit.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
