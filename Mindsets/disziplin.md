@@ -15,4 +15,4 @@ Post-It-Notes
 Benachrichtigungen auf dem Handy, durch ToDo-Apps
 
 
-//Test Edit mit Branch - 05/10/2019
+//Test Edit mit Branch 
