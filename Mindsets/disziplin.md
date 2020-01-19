@@ -15,4 +15,12 @@ Post-It-Notes
 Benachrichtigungen auf dem Handy, durch ToDo-Apps
 
 
-//Test Edit mit Branch 
+## Inhaltsverzeichnis
+
+1. Einleitung - Die Motivation dahinter
+2. Definition - Was ist Disziplin?
+3. Wofür - Was ermöglicht Disziplin
+4. Prioritäten - Was machen wir zuerst
+5. Lernen NEIN zu sagen - Integral um zu erreichen, was man selbst will
+6. Wann - die Zeit finden wann wir was machen können
+7. Wie - Setzen wir um, was wir vorhaben.
