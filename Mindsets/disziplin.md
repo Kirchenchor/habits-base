@@ -56,10 +56,20 @@ Zusammengefasst definiere ich Definition also wie folgt:
 
 ## 3 Wofür - Was ermöglicht Disziplin 
 
-Zustand herbeiführen, der dafür sorgt, dass die Ziele erreicht werden.
+1. Zustand herbeiführen, der dafür sorgt, dass die Ziele erreicht werden.
 > Nope. Auch das hat in erster Linie nicht mit Disziplin zu tun. Wenn doch, machst du was falsch.
 > Ziel ist nicht, Disziplin aufbringen zu müssen, um Ziele zu erreichen. Das nennt man System oder Workflow.
 > >Disziplin ist die Einordnung/Unterordnung in ein System. Das hat also sehr wohl damit zu tun. 
+2. Sich besser fühlen
+Weil durch Selbstdiziplin, durch "Ordnung" im Leben der Alltag weniger stressig wird. Und Disziplin dazu beiträgt sich zu kontrollieren
+3. Zufriedenheit mit sich selbst.
+Durch Disziplin, kontrollierter im Alltag sein, kontrolliert sich an sein System halten, und seine Aufgaben machen, bedeutet im längeren Zeitraum, mehr Freizeit die man effektiv nutzen kann.
+4. Zielgerichter für delayed gratification
+Durch Disziplin seine Aufgaben zu machen, bedeutet man arbeitet für die Zukunft. Delayed gratification ist in der Zukunft. 
+5. Gesünderes Leben
+Sich an seinen Ernahrungsplan halten, regelmäßig trainieren und Cardio machen, sorgt für ein längeres und fitteres Leben.
+6. Geld sparen
+An den Ernährungsplan halten, und sein eigenes Essen immer mitnehmen auf Arbeit, schont den Geldbeutel. Und mit nem "Kauf-System", schützt man sich sogar vor Impulskäufen.
 
 ## 4 Prioritäten - Was machen ich zuerst
 
@@ -68,6 +78,7 @@ Erstmal machen lernen, dann priorisieren.
 > Mag sein. Das hast du aber genau nicht gemacht in den Wochen, wo du Dinge anderen bevorzugst.
 > Das geht nur mit einer First-In-First-Out Liste, aka nicht machen worauf Bock ist, sondern was am längsten auf der Liste schon steht.
 > >Das ist eine mögliche Herangehensweise an das ganze. Meine ist momentan anders. Erstmal regelmäßig machen, dann anfangen zu priorisieren. Das sorgt u.A. auch dafür, dass man sich daran gewöhnen kann, z.B. in festgelegten Zeitslots zu machen. Wenn das funktioniert, kann man priorisieren, was man in dem Zeitslot dann macht. So meine Herangehensweise.
+
 "simply doing something as your only metric for success - well, then even failure pushes you forward" - Mark Manson
 
 ## 5 Lernen NEIN zu sagen - Integral um zu erreichen, was man selbst will
