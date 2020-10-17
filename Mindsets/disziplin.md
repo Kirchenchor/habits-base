@@ -2,12 +2,18 @@
 > weniger bla bla, und mehr konkrete Listen und auf den Punkt kommen.
 > Robin hat sich das leider auch angewöhnt... hier geht es nicht darum Seiten zu fühlen, sondern es soll viel Inhalt in wenig Text, damit es leichter rekapituliert werden kann.
 >>Ja das ist ein guter Punkt.
+
+Ich hab den Beitrag auf die ersten 3 Punkte gekürzt. Die Punkte 4-7 beschäftigen sich mit der Umsetzung und das ist eher Thema "System" als Disziplin, und wird dementsprechend ausgelagert.
+
 # Disziplin
 
 ## 1 Einleitung - Die Motivation dahinter
 
-Zielsetzung des Beitrags, ist es eine Übersicht über den Begriff Disziplin zu haben, da ich oft behaupte, dass mir Disziplin fehle um Dinge die ich mir vornehme umzusetzen, oder Ziele die ich mir vorgebe zu verfolgen. Oftmals nutze ich fehlende Disziplin als Ausrede, oder setze meine Vorstellung "Disziplin zu haben" oder "diszipliniert" zu sein, voraus um Aufgaben zu erledigen. Meist unterbewusst, manchmal bewusst, damit ich mir kein allzugroßes schlechtes Gewissen mache, wenn ich meine Aufgaben nicht erledige.
-Genau diesem antrainierten Verhalten, soll die Auseinandersetzung mit dem Begriff entgegenwirken, und im gleichen Schritt, eine Hilfestellung bieten um "Disziplin zu erlangen", oder besser ausgedrückt um Methoden und Abläufe übersichtlich zu sammeln, die ich kenne, kennen lernen werde, und von denen ich bereits gelesen oder in Podcasts gehört habe.
+Zielsetzung des Beitrags, ist es eine Übersicht über den Begriff Disziplin zu haben. Weil ich oft behaupte, dass mir Disziplin fehlt um Dinge die ich mir vornehme umzusetzen, oder Ziele die ich mir vorgebe zu verfolgen. 
+Oftmals nutze ich fehlende Disziplin als Ausrede, oder setze meine Vorstellung "Disziplin zu haben" oder "diszipliniert" zu sein, voraus um Aufgaben zu erledigen. 
+Meist unterbewusst, manchmal bewusst, damit ich mir kein allzugroßes schlechtes Gewissen mache, wenn ich meine Aufgaben nicht erledige.
+Genau diesem antrainierten Verhalten, soll die Auseinandersetzung mit dem Begriff entgegenwirken. 
+Ebenfalls soll sie eine Hilfestellung bieten um "Disziplin zu erlangen", oder besser ausgedrückt um Methoden und Abläufe übersichtlich zu sammeln.
 
 ## 2 Definition - Was ist Disziplin? 
 
@@ -16,37 +22,40 @@ Die Kernaussage wäre: "Einordnung/Unterordnung in ein System"
 > Und die wären? 
 > >A) das Einhalten von bestimmten Vorschriften, vorgeschriebenen Verhaltensregeln o. Ä.; das Sicheinfügen in die Ordnung einer Gruppe, einer Gemeinschaft
 >>B) das Beherrschen des eigenen WIllens, der eigenen Gefühle udn Neigungne, um etwas zu erreichen
->>C) Disziplin (von lateinisch disciplina „Lehre, Zucht, Schule“) steht für: Selbstdisziplin, Form der bewussten Selbstregulierung. Gehorsam, Ordnungsregulierung innerhalb eines Befehlsprinzips.
+>>C) Disziplin (von lateinisch disciplina "Lehre, Zucht, Schule") steht für: Selbstdisziplin, Form der bewussten Selbstregulierung. Gehorsam, Ordnungsregulierung innerhalb eines Befehlsprinzips.
 >>D) Intrinsisch: Selbstdisziplin, Verpflichtung, Einordnung, Unterordnung, Gewissen, Ethos, Selbststeuerung, Selbstkontrolle, Selbstbeherrschung, Pflichtbewusstsein.
 >>E) Extrinsisch:  Dressur, Drill, Befehl, Anweisung, Ordnung, Schliff, Handlungsregeln.
 >>F) Ordnung, Zucht, der sich jmd. unterwirft
->>Um mal paar zu nennen, daher dachte ich mir, wenn ich schon nix felsenfestes finde. Da nichtmal der Duden nur eine Definition kennt, 
->>
-Wichtig ist allerdings was ich mir bei dem Begriff vorstelle, wie Ich ihn definiere.
+>>Um mal paar zu nennen, daher dachte ich mir, wenn ich schon nix felsenfestes finde. Da nichtmal der Duden nur eine Definition kennt. 
+
+~~Wichtig ist allerdings was ich mir bei dem Begriff vorstelle, wie Ich ihn definiere.~~
 
 > Wieso? Du bist bei jedem Scheiß ein Korinthenkacker, aber hier zählt auf einmal alle echten Definitionen nicht?
 > >Natürlich zählen die, nur kann man sich schlecht an alle auf einmal halten, daher wird die Kernaussage zu Grunde gelegt. Und das als Definition angenommen.
 
 > Geh davon aus, wie es in der Realität definiert ist, nicht was du dir darunter vorzustellen wünscht.
 >> Jo, das tue ich ja, wenn man sich die Kernaussage der ganzen Definitionen zugrunde legt. Das ist dann nämlich Einordnung/Unterordnung in ein System.
-Denn nur durch diese Klarheit, kann Ich auch klare Abläufe befolgen und Zusammenhänge erkennen um den von mir definierten Zustand oder Skill der Disziplin zu erreichen.
+~~Denn nur durch diese Klarheit, kann Ich auch klare Abläufe befolgen und Zusammenhänge erkennen um den von mir definierten Zustand oder Skill der Disziplin zu erreichen.~~
 
-Konkret bedeutet das für mich (Vorausgesetzt, die Planung der Aufgaben (was und wann, ist unerschütterlich, und bereits am Sonntag vorher geschehen):
-~~Es zeugt von Disziplin, wenn ich heimkomme, und mich an meine Aufgaben setze, ohne mich vorher abzulenken oder ablenken zu lassen, egal was für ein schöner Tag heute ist, egal was heute noch kommen wird.~~
+~~Konkret bedeutet das für mich (Vorausgesetzt, die Planung der Aufgaben (was und wann, ist unerschütterlich, und bereits am Sonntag vorher geschehen):
+Es zeugt von Disziplin, wenn ich heimkomme, und mich an meine Aufgaben setze, ohne mich vorher abzulenken oder ablenken zu lassen, egal was für ein schöner Tag heute ist, egal was heute noch kommen wird.~~
 > Nein. Genau das ist Disziplin nämlich nicht (direkt).
 > >Das sehe ich anders. Wenn wir die Kernaussage zugrunde legen, und das System so funktioniert, dann ist das Disziplin.
 
-Das die Aufgaben für den Tag erledigt werden, egal was dazwischen kommt (Ausgenommen Unfälle oder Zustände, auf die ich keinen Einfluss habe)
+
+~~Das die Aufgaben für den Tag erledigt werden, egal was dazwischen kommt (Ausgenommen Unfälle oder Zustände, auf die ich keinen Einfluss habe)
 Fallbeispiel: Besuch kommt unangekündigt. Ich muss aber dennoch dafür sorgen, dass ich meinen täglichen Kram erledigt bekomme.
 Beispiel 2: Länger gearbeitet, später daheim. Dadurch müder: Dennoch müssen die tägllichen Aufgaben gemacht werden. "Zur Not" fällt halt Zeit von der Freizeit weg.
-Beispiel 3: Wenn wir Wassereinbruch haben bei Starkregen, dann kann ich die Aufgaben vernachlässigen, un dafür das Wasser aus dem Keller schöpfen.
+Beispiel 3: Wenn wir Wassereinbruch haben bei Starkregen, dann kann ich die Aufgaben vernachlässigen, un dafür das Wasser aus dem Keller schöpfen.~~
 > Der Punkt war ja, dass du nachsiehst, was Disziplin wirklich ist; damit du nicht deiner falschen Disziplin Vorstellung ausgesetzt bist. 
 > >Habe ich getan, hat an sich nicht viel geholfen, weil viele verschiedene Definitonen aber mit gleicher Kernaussage.
 > Heißt nicht, dass dadurch nicht konkret gite GEdanken entstehen, aber verschiedene Dinge sind nun mal verschiedene Dinge.
 >> Die guten Gedanken beziehen sich dann wohl auf den folgenden Absatz. Die Definition
 
+Anm.: Die Auseinandersetzung mit dem System, dem ich mich unterordnen will, wird ein eigener Beitrag. Ein System gibts ja bereits, das Whiteboard.
+
 Disziplin bedeutet auch, dass ich meine Aufgaben mache, obwohl ich keine Lust habe sie zu erledigen. Das schließt ebenfalls ein, dass ich meine Aufgaben erledige, wenn ich mich nicht allzu gut fühle (mit Kopfschmerzen, oder Rückenschmerzen, etc.). 
-Solange ich in der Lage bin, meine Aufgaben zu erledigen, sind diese zu erledigen, bevor ich mich mit anderen Dinge beschäftige. 
+Solange ich in der Lage bin meine Aufgaben zu erledigen, sind diese zu erledigen bevor ich mich mit anderen Dinge beschäftige. 
 Ein wichtiger Punkt ist, dass man sich selbst kontrolliert. Reflektion ist hierbei ein wichtiger Aspekt. Denn es bringt leider nichts, wenn ich eine Woche alle Aufgaben erledige, aber die nächste Woche nicht weiß wieso ich das letzte Woche geschaft habe, und dann wieder nicht die Aufgaben erfülle.
 
 Zusammengefasst definiere ich Definition also wie folgt:
@@ -71,15 +80,18 @@ Sich an seinen Ernahrungsplan halten, regelmäßig trainieren und Cardio machen,
 6. Geld sparen
 An den Ernährungsplan halten, und sein eigenes Essen immer mitnehmen auf Arbeit, schont den Geldbeutel. Und mit nem "Kauf-System", schützt man sich sogar vor Impulskäufen.
 
+# Alles nach dem hier bleibt erstmal stehen wegen der Kommentare und bis zum finalen Review durch euch.
+
 ## 4 Prioritäten - Was machen ich zuerst
 
-Zurückgestellt;
 Erstmal machen lernen, dann priorisieren.
 > Mag sein. Das hast du aber genau nicht gemacht in den Wochen, wo du Dinge anderen bevorzugst.
 > Das geht nur mit einer First-In-First-Out Liste, aka nicht machen worauf Bock ist, sondern was am längsten auf der Liste schon steht.
 > >Das ist eine mögliche Herangehensweise an das ganze. Meine ist momentan anders. Erstmal regelmäßig machen, dann anfangen zu priorisieren. Das sorgt u.A. auch dafür, dass man sich daran gewöhnen kann, z.B. in festgelegten Zeitslots zu machen. Wenn das funktioniert, kann man priorisieren, was man in dem Zeitslot dann macht. So meine Herangehensweise.
 
 "simply doing something as your only metric for success - well, then even failure pushes you forward" - Mark Manson
+
+
 
 ## 5 Lernen NEIN zu sagen - Integral um zu erreichen, was man selbst will
 
@@ -105,8 +117,22 @@ Oftmals reagieren die anderen Beteiligten, bzw. die Fragenden, denen man helfen 
 Was wir aber von Anfang an machen können, ist uns die Zeit nehmen, Aktivitäten zu planen. Wir haben ja am Wochenende bereits unser Meeting in wessen Vorfeld man seine Wochenziele planen sollte. Also eben genau das, was man wann macht.~~
 > wieso ohne Erklärung durchgestrichen?
 >>Weil ich mit dem Absatz nicht zufrieden war. Aber mir die bisherigen Gedankengänge die ich schon zu Schrift gebracht habe, nicht nehmen wollte.
->
+
+Ihr habt mir von Zeitslots erzählt, und ich hab mal Acht darauf gehabt, was ich so für Zeitslots in meinem Alltag habe.
+Und wenn man mal exakte Zeite einfach weglässt sieht der Alltag so aus:
+
+1. Heimkommen
+2. Zeitslot 1
+3. Essen machen / Abend essen
+4. Zeitslot 2
+5. Abendsreview
+6. Zeitslot 3
+7. Schlafen
+
+
 ## 7 Wie - Setze Ich um, was Ich vorhabe
+
+Wie Ich das umsetze, wird in einem separaten Beitrag zu einem System geklärt.
 
 > hat leider alles wenig mit Disziplin zu tun. Wie du an Disziplin arbeiten kannst.
 >>Es tangiert das Thema. Das ist aber an sich eher ein Unterpunkt für ein System, als für Disziplin.
